@@ -131,6 +131,7 @@ $ ./sem.o $ ipcs
 <img width="805" height="659" alt="Screenshot 2025-11-25 202712" src="https://github.com/user-attachments/assets/27eafd4b-c031-4dc4-9e9a-159b68a7b0c5" />
 
 
+<img width="692" height="147" alt="Screenshot 2025-11-26 190129" src="https://github.com/user-attachments/assets/0b05508a-bc9c-4ed1-9a79-d74a36abc718" />
 
 # RESULT:
 The program is executed successfully.
